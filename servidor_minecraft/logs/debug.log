@@ -554,3 +554,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Nov2024 04:51:04.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anhel19 left the game
 [27Nov2024 04:51:55.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Nov2024 04:51:55.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 04:56:55.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 04:56:55.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 05:01:55.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 05:01:55.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
