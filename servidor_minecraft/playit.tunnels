@@ -1,0 +1,60 @@
+{
+  "tcp_alloc": {
+    "allowed": 6,
+    "claimed": 1,
+    "desired": 1
+  },
+  "tunnels": [
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "discount-retreat.gl.joinmc.link",
+          "assigned_srv": "discount-retreat.gl.joinmc.link",
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "67852da1-8bb4-4940-a563-ac4131d136c4",
+          "ip_hostname": "24.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 9140,
+          "port_start": 9139,
+          "region": "global",
+          "static_ip4": "147.185.221.24",
+          "tunnel_ip": "2602:fbaf:0:1::18"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2024-11-27T04:28:41.651341Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "5cb0a84b-d4f7-4b62-84df-8c1b24f44361",
+      "name": "Minecraft Java",
+      "origin": {
+        "data": {
+          "agent_id": "b2fce337-c761-45ad-984d-3c42c4b2400a",
+          "agent_name": "Ratilserver",
+          "local_ip": "127.0.0.1",
+          "local_port": 25565
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "tcp",
+      "proxy_protocol": null,
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": "minecraft-java"
+    }
+  ],
+  "udp_alloc": {
+    "allowed": 6,
+    "claimed": 0,
+    "desired": 0
+  }
+}
